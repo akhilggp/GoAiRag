@@ -1,6 +1,6 @@
 # Go + Docker Compose Cheat Sheet
 
-A quick reference for the Go commands and Docker Compose commands you’ll use most often.
+A quick reference for the Go commands and Docker Compose commands
 
 ---
 
